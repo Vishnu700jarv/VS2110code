@@ -1,3 +1,0 @@
-@Imports VS2110code.Areas.HelpPage.ModelDescriptions
-@ModelType SimpleTypeModelDescription
-@Model.Documentation
