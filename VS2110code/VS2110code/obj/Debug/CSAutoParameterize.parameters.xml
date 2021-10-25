@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-VS2110code-20211026120943.mdf;Initial Catalog=aspnet-VS2110code-20211026120943;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\VS2110code\\VS2110code\\VS2110code\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
