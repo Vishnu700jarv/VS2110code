@@ -1,6 +1,6 @@
 ﻿@ModelType LoginViewModel
 @Code
-    ViewBag.Title = "Version 1.5"
+    ViewBag.Title = "Version 1.6"
 End Code
 
 <h2>@ViewBag.Title.</h2>
@@ -10,7 +10,7 @@ End Code
             @Using Html.BeginForm("Login", "Account", New With { .ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, New With {.class = "form-horizontal", .role = "form"})
                 @Html.AntiForgeryToken()
                 @<text>
-                <h4>Successfully updated to V1.4</h4>
+                <h4>Successfully updated to V1.6</h4>
                 <hr />
                 @Html.ValidationSummary(True, "", New With {.class = "text-danger"})
                 <div class="form-group">
