@@ -114,7 +114,6 @@ D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.vbproj.AssemblyReferenc
 D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.Resources.resources
 D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.vbproj.GenerateResource.cache
 D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.vbproj.CoreCompileInputs.cache
-D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.vbproj.CopyComplete
 D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.dll
 D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.xml
 D:\VS2110code\VS2110code\VS2110code\obj\Debug\VS2110code.pdb
